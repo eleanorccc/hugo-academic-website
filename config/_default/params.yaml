@@ -20,13 +20,13 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: yuechi@umich.edu
+phone: (+1)734-881-5412
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  city: Ann Arbor
+  region: MI
+  postcode: '48105'
   country: United States
   country_code: US
 coordinates:
