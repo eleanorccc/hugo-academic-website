@@ -42,11 +42,8 @@ contact_links:
     icon_pack: fas
     name: Discuss on Forum
     link: 'https://discourse.gohugo.io'
-  - icon: linkedin
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
-
+    
+    
 # Site header
 
 main_menu:
